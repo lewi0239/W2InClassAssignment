@@ -1,0 +1,14 @@
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/bin/Debug/net9.0/W2InClassAssignment
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/bin/Debug/net9.0/W2InClassAssignment.deps.json
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/bin/Debug/net9.0/W2InClassAssignment.runtimeconfig.json
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/bin/Debug/net9.0/W2InClassAssignment.dll
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/bin/Debug/net9.0/W2InClassAssignment.pdb
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.AssemblyInfoInputs.cache
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.AssemblyInfo.cs
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.csproj.CoreCompileInputs.cache
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.dll
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/refint/W2InClassAssignment.dll
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.pdb
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.genruntimeconfig.cache
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/ref/W2InClassAssignment.dll
