@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Point p = new Point(15,20);
+        Point p2 = new Point(10,55);
+        Console.WriteLine(p.Distance(p2));
+ 
     }
 }

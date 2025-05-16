@@ -12,3 +12,4 @@
 /Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.pdb
 /Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.genruntimeconfig.cache
 /Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/ref/W2InClassAssignment.dll
+/Users/brodielewis/Documents/code/MADD/MADD-Levels/levelfour/MAD9146/c-sharp/Week2/InclassAssignment/W2InClassAssignment/W2InClassAssignment/obj/Debug/net9.0/W2InClassAssignment.sourcelink.json
