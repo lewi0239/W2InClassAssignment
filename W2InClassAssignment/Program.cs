@@ -18,6 +18,12 @@ class Program
         RaceCar myCar = new RaceCar("BMW", 150);
         myCar.Describe();
         
+        //vowelCounter
+        VowelCounter vowelCounter = new VowelCounter("Hello World");
+        VowelCounter vowelCounter2 = new VowelCounter("Apples ARE awesome");
+        vowelCounter.getVowelCount();
+        vowelCounter2.getVowelCount();
+        
         
     }
     
