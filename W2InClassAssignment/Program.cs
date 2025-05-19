@@ -1,12 +1,19 @@
-﻿namespace W2InClassAssignment;
+﻿using MyNamespace;
+
+namespace W2InClassAssignment;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Point p = new Point(15,20);
-        Point p2 = new Point(10,55);
-        Console.WriteLine(p.Distance(p2));
- 
+        //create a book object
+        Book theHobbit = new Book("The Hobbit", "J.R.R.Tolkien", "1937");
+        theHobbit.DisplayInfo();
+        //create a student object
+        Student brodie = new Student("Brodie", 90);
+        brodie.studentInfo();
+        brodie.IsPassing();
+        
     }
+    
 }

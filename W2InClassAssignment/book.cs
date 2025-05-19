@@ -1,25 +1,29 @@
+
 namespace W2InClassAssignment
 {
-    class Point
+    class Book
     {
-        public double x { get; set; }
-        public double y { get; set; }
+        public string title { get; set; }
+        public string author{ get; set; }
+        public string yearPublished { get; set; }
 
-        public Point(double x, double y)
+        public Book(string title, string author, string yearPublished)
         {
-            this.x = x;
-            this.y = y;
+            this.title = title;
+            this.author = author;
+            this.yearPublished = yearPublished;
         }
-
-        public double Distance(Point p)
+        
+        public void DisplayInfo()
         {
-            return Math.Sqrt((x - p.x) * (x - p.x) + (y - p.y) * (y - p.y));
-        } 
+            Console.WriteLine($"""
+                               {title}
+                               {author}
+                               {yearPublished}
+                               """
+                );
 
-
-        public override string ToString()
-        {
-            return $"(x{x}, y{y})";
         }
+     
     }
 }
