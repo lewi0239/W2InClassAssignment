@@ -5,6 +5,7 @@ namespace MyNamespace
         private string name;
         private int grade;
 
+        //define properties that are available pubicly
         public string Name
         {
             get { return name; }
@@ -17,6 +18,7 @@ namespace MyNamespace
             set { grade = value; }
         }
 
+        //created a constructor for future use
         public Student(string name, int grade)
         {
             this.name = name;

@@ -14,6 +14,11 @@ class Program
         brodie.studentInfo();
         brodie.IsPassing();
         
+        //create a car object
+        RaceCar myCar = new RaceCar("BMW", 150);
+        myCar.Describe();
+        
+        
     }
     
 }
